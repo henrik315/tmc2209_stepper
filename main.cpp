@@ -1,4 +1,4 @@
-//TMC2209, ESP32: Sensorless homing in both directions with AccelStepper -> based on 
+//TMC2209, ESP32: Sensorless homing in both directions with AccelStepper
 
 #include <TMCStepper.h>
 #include <AccelStepper.h>
